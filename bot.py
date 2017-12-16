@@ -1,3 +1,7 @@
+# Version 1.0.0 beta  //  Made by Banakin for GashRTs
+# https://github.com/Banakin/GashBot
+
+
 import tweepy
 import json
 import time
@@ -14,7 +18,7 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 
 while 1 == 1:
-	search = api.search("@"+handle, count=10)
+	search = api.search("@"+handle, count=15)
 	for tweet in search:
 		print('[Gash] Found the following tweet: '+str(tweet.id))
 		
@@ -29,4 +33,4 @@ while 1 == 1:
 						print('[Gash] The tweet has been already retweeted, moving on...')
 				else:
 					print('[Gash] The poster of the tweet does not follow you, moving on...') # If you see this message twice it means that the bot found its own tweet, its ok.
-	time.sleep(20)
+	time.sleep(45)
