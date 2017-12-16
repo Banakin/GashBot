@@ -1,4 +1,4 @@
-[![Developer: Banakin](https://img.shields.io/badge/Developer-Banakin-orange.svg?style=flat)](https://banakin.net) ![Licence](https://img.shields.io/dub/l/vibe-d.svg) [![Python 3.6](https://img.shields.io/badge/Python-v3.6-lightgrey.svg)](https://python.org/) [![Tweepy 3.5.0](https://img.shields.io/badge/Tweepy-v3.5.0-ff69b4.svg)](http://tweepy.org/) [![Follow GashRTs](https://img.shields.io/twitter/follow/GashRTs.svg?style=social&label=Follow)](https://twitter.com/GashRTs)
+[![Developer: Banakin](https://img.shields.io/badge/Developer-Banakin-orange.svg?style=flat)](https://banakin.net) ![Licence](https://img.shields.io/dub/l/vibe-d.svg) [![Python 3.5](https://img.shields.io/badge/Python-v3.5-lightgrey.svg)](https://python.org/) [![Tweepy 3.5.0](https://img.shields.io/badge/Tweepy-v3.5.0-ff69b4.svg)](http://tweepy.org/) [![Follow GashRTs](https://img.shields.io/twitter/follow/GashRTs.svg?style=social&label=Follow)](https://twitter.com/GashRTs)
 
 # Gash Twitter Bot
 
