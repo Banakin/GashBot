@@ -32,7 +32,7 @@ print(''' &&&&&&\                      &&\
                                                
                                                
                                                
-Verson 1.1.0 beta // Made by Banakin // https://banakin.net''')
+Version 1.1.0 beta // Made by Banakin // https://banakin.net''')
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
