@@ -65,7 +65,7 @@ class MyStreamListener(tweepy.StreamListener):
 							api.create_favorite(tweet.id)
 							print('[Gash] Liked!')
 						except:
-							print('[Gash] The tweet has been already retweeted, moving on...')
+							print('[Gash] The tweet has been already liked, moving on...')
 					else:
 						print('[Gash] Not following you, moving on...') # If you see this message twice it means that the bot found its own tweet, its ok.
 
