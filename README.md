@@ -4,9 +4,6 @@
 
 The source code of the [@GashRTs](https://twitter.com/GashRTs) twitter bot that was built using [tweepy](http://tweepy.org/) and is powered by [Heroku](https://heroku.com/). This twitter bot was also coded with [Pythonista](http://omz-software.com/pythonista/) and was coded by [Banakin](https://banakin.net/).
 
-
-----------
-
 ## Using
 
 Using bot.py is pretty easy and it just requires you to know how to run python and how to use [Twitter Apps](https://apps.twitter.com).
@@ -16,15 +13,11 @@ Using bot.py is pretty easy and it just requires you to know how to run python a
  3.  Open up bot.py and replace the variables with the things specific to your twitter account and twitter app (You need to make the twitter app)
  4. Run bot.py and it should all work
 
-----------
-
 ## Help
 
 Contributions are welcome if you notice a spelling mistake, you think documentation could have some more things, or you have an improvement to the Gash Bot code.
 
 If you need help open an issue and me or someone else should be able to help you. Happy tweeting!
-
----------
 
 ## LICENSE
 
